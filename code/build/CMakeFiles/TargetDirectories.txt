@@ -1,0 +1,6 @@
+/home/misha/dev/Encoder-decoder/code/build/CMakeFiles/encoder_application.dir
+/home/misha/dev/Encoder-decoder/code/build/CMakeFiles/edit_cache.dir
+/home/misha/dev/Encoder-decoder/code/build/CMakeFiles/rebuild_cache.dir
+/home/misha/dev/Encoder-decoder/code/build/source_dir/CMakeFiles/source.dir
+/home/misha/dev/Encoder-decoder/code/build/source_dir/CMakeFiles/edit_cache.dir
+/home/misha/dev/Encoder-decoder/code/build/source_dir/CMakeFiles/rebuild_cache.dir

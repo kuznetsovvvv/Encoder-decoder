@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/encoder_application.dir/d32.cpp.o -o encoder_application  source_dir/libsource.a 

@@ -1,0 +1,26 @@
+name: CMake_Build
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+
+    steps:
+    - name: checkout
+      uses: actions/checkout@v3
+
+    - name: Build a encoder application gcc
+      run: |
+        cmake -H. -B_build -DCMAKE_C_COMPILER=gcc
+        cmake --build _build
+      shell: bash
+      working-directory: code
